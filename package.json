@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.0.4",
+    "react": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.4"
+  },
+  "name": "Redux-Starter-Kit",
+  "version": "1.0.0",
+  "description": "Testing redux starter kit",
+  "main": "index.js",
+  "repository": "git@github.com:imCaseSensitive/Redux-Starter-Kit.git",
+  "license": "MIT"
+}
